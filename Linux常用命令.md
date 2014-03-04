@@ -1,0 +1,1 @@
+#### ifconfig: linux中用于显示或配置网络设备（网络接口卡）的命令，英文全称是network interfaces configuring。
